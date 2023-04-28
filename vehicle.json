@@ -1,0 +1,79 @@
+[
+    {
+      "year": 2020,
+      "make": "Audi",
+      "model": "Q3",
+      "category": "SUV",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2018,
+      "make": "Cadillac",
+      "model": "Escalade ESV",
+      "category": "SUV",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2021,
+      "make": "BMW",
+      "model": "X3",
+      "category": "SUV",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "category": "Sedan",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2020,
+      "make": "Acura",
+      "model": "RLX",
+      "category": "Sedan",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2019,
+      "make": "BMW",
+      "model": "3 Series",
+      "category": "Sedan",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD Crew Cab",
+      "category": "Pickup",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2018,
+      "make": "Chevrolet",
+      "model": "Colorado Crew Cab",
+      "category": "Pickup",
+      "vehicleType":"CAR"
+    },
+    {
+      "year": 2020,
+      "make": "TVS",
+      "model": "TVS Ronin",
+      "category": "cruiser",
+      "vehicleType":"BIKE"
+    },
+    {
+      "year": 2019,
+      "make": "Royal Enfield",
+      "model": "Royal Enfield Meteor 350",
+      "category": "cruiser",
+      "vehicleType":"BIKE"
+    },
+    {
+      "year": 2018,
+      "make": "Honda",
+      "model": "Honda H'ness CB350",
+      "category": "cruiser",
+      "vehicleType":"BIKE"
+    }
+  ]
