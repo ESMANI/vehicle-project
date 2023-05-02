@@ -1,0 +1,13 @@
+{
+   "name": "vehicle-project",
+   "version": "1.0.0",
+   "main": "index.js",
+   "license": "MIT",
+   "scripts": {
+      "install-backend": "cd backend && yarn install",
+      "start-backend": "cd backend && yarn start",
+      "install-frontend": "cd frontend && yarn install",
+      "build-frontend": "cd frontend && yarn build",
+      "start-frontend": "cd frontend && yarn start"
+   }
+}
